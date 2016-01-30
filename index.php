@@ -1,1 +1,1 @@
-<?php include_once("srivenkatrama.html"); ?>
+<?php include_once("/html_pages/srivenkatrama.html"); ?>
