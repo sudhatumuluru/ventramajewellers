@@ -1,0 +1,61 @@
+h1 { 
+        color:#610B0B; 
+        background-color: yellow;
+        padding:20px;
+        border-color: red;
+        border-width: 3px;
+        border-style: dashed;
+        text-align:center;
+        font-size:300%;
+        font-family:arial
+      }
+      h3 {
+        background-top-color:green;
+        background-top-width : 4px;
+        background-top-style  : dotted;
+        background-color: yellow;
+        padding:20px;
+        text-align:center;
+        color:#610B0B
+      }
+      a:link
+      {
+        color:red;
+        text-decoration: none;
+      }
+      a:visited 
+      {
+        color: purple;
+        text-decoration: underline;
+        font-weight: bold;
+      }
+      a:hover
+      {
+        color: black;
+        text-decoration: underline;
+        font-weight: bold;
+      }
+      a:active
+      {
+        background-color: orange;
+      }
+      div {
+        position: absolute;
+        top: 230px;
+        
+      }
+      body{
+        background-color: #610B0B;
+        background-image: url(/Users/sreesudha/Desktop/mystuff/Learnings/HTML learning/images/goldngirl6.jpg);
+
+        background-repeat: no-repeat; 
+        background-position: 50% 50%;
+      }
+
+      <h4>
+      <div style="left: 100px;"><a href = " /Users/sreesudha/Desktop/mystuff/Learnings/HTML learning/html_pages/srivenkatrama.html"> HOME </a></div>
+      <div style ="left: 200px;"><a href ="/Users/sreesudha/Desktop/mystuff/Learnings/HTML learning/html_pages/about.html"> ABOUT US </a></div>
+      <div style="left: 400px;"><a href ="/Users/sreesudha/Desktop/mystuff/Learnings/HTML learning/html_pages/OurDesigns.html" title="Bangles,Necklases,Oddiyanam" visited="color: red;text-decoration: underline;font-weight: bold;"> OUR DESIGNS </a> </div>
+      <div style="left: 600px;"><a href ="#contact"> CONTACT US </a></div>
+      <div style="left: 800px;"><a href =""> CAREERS </a></div>
+    </h4>
